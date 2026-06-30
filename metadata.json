@@ -1,0 +1,6 @@
+{
+  "name": "AfriLearn IA Edu",
+  "description": "La première plateforme éducative tout-en-un d'Afrique francophone propulsée par l'IA : cours, quiz, assistant de révision et simulation de monétisation.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
